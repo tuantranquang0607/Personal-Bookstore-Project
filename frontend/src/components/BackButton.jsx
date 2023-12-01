@@ -11,3 +11,5 @@ const BackButton = ({ destination = '/' }) => {
         </div>
     )
 };
+
+export default BackButton;
