@@ -24,7 +24,7 @@ app.use(cors());
 
 app.get('/', (request, response) => {
     console.log(request)
-    return response.status(234).send('Hello');
+    return response.status(234).send('Hello World');
 });
 
 app.use('/books', booksRoute);
@@ -148,3 +148,4 @@ moongoose.connect(mongoDBURL).then(() => {
 }).catch((error) => {
     console.log(error);
 });
+

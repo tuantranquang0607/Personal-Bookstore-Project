@@ -41,7 +41,7 @@ const BooksTable = ({ books }) => {
                 ))}
             </tbody>
         </table>
-    )
-}
+    );
+};
 
-export default BooksTable
+export default BooksTable;
