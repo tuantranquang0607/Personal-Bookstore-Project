@@ -7,7 +7,7 @@ Code: https://github.com/mohammad-taheri1/Book-Store-MERN-Stack
 
 
 # 💫 About Me:
-I am an international student in Canada, majoring in Game Development. Besides, I dabble in Web Development and digital art. <br>Feel free to contact me for work or anything else.<br><br>Fun fact: I look much younger than my appearance 😊.
+I am an international student in Canada, majoring in Game Development. Besides, I dabble in Web Development and digital art. <br>Feel free to contact me for work or anything else.<br><br>Fun fact: I look much younger than my age 😊.
 
 
 ## 🌐 Socials:
