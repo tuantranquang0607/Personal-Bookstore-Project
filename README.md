@@ -1,9 +1,6 @@
 # Personal-Bookstore-Project
 
-I made a bookstore website using MERN Stack (ReactJS, NodeJS, ExpressJS, and MongoDB) based on the freeCodeCamp.org tutorial.<br><br>
-
-Source: https://youtu.be/-42K44A1oMA?si=4sJANtcfM6vY7zIb <br>
-Source Code: https://github.com/mohammad-taheri1/Book-Store-MERN-Stack
+I made a bookstore website using MERN Stack (ReactJS, NodeJS, ExpressJS, and MongoDB).<br><br>
 
 
 # 💫 About Me:
